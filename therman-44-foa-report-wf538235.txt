@@ -1,0 +1,1054 @@
+
+ 
+ 
+ 
+
+Field of Application for: 
+The Therman™ 44 Range of Doorsets in Timber Based Door
+Frames 
+ 
+For 30 minutes Fire Resistance 
+ 
+
+ 
+Issue Date: 
+04th April 2024 
+ 
+th
+ 
+
+ 
+
+Wood Internaitonal Agency Ltd 
+16 King Edward Road, 
+Brentwood, 
+CM14 4HL, 
+United Kingdom 
+
+ 
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ 
+The version/revision stated on the front of this Field of Application supersedes all previous versions/revisions and must be used to manufacture doorsets from the stated validity date on this front cover. Previous revisions of the Field of Application cannot be used once an updated Field of Application has been issued under a new revision.  
+
+Registered Office:  
+Warringtonfire Testing and Certification Limited, 3rd Floor, Davidson Building, 5 Southampton Street, London, WC2E 7HA, United Kingdom Co. Reg. No. 11371436 
+ 
+ 
+Page No. Contents Contents	2 
+1 Foreword	4 
+2 Proposal	5 
+2.1  Assumptions	5 
+3 Test Data	6 
+3.1  Primary Test Evidence	7 
+4 Technical Specification	10 
+4.1  General	10 
+4.2  Intended Use	10 
+4.3  Door Leaf	10 
+4.4  Door Frames	10 
+4.5  Doorset Configurations & Maximum Leaf Sizes	11 
+5 General Description of Construction	23 
+5.1  Leaf Core Construction	23 
+5.2  Leaf Size Adjustment During Manufacturer	24 
+5.3  Timber Lipping	24 
+5.4  Decorative & Protective Facings	25 
+5.5  Decorative Planted on Timber Mouldings	26 
+5.6  Astragal	26 
+6 Glazing within the Leaf	27 
+6.1  General	27 
+6.2  Glazing Beads & Installation	29 
+7 Door Frame Construction	31 
+7.1  Details for Frame	31 
+7.2  Door Frame Joints	33 
+7.3  Decorative Facings	34 
+8 Overpanels & Fanlights, Sidepanel & Sidelights	35 
+8.1  General	35 
+8.2  Framing	35 
+9 Adhesives	45 
+10 Hardware	46 
+10.1 General	46 
+10.2 Intumescent to Hardware	47 
+10.3 Essential Hardware	48 
+10.4 Latches & Locks	49 
+10.5 Handles & Escutcheons	51 
+10.6 Butt Hinges	52 
+10.7 Doorset Self Closing	53 
+10.8 Bolts	54 
+10.9 Non-Essential Hardware	56 
+11 Installation	60 
+11.1 General	60 
+11.2 Door Frame Installation	60 
+11.3 Firestopping	61 
+11.4 Packers	62 
+11.5 Wall Types, Structural Opening & Fixity	63 
+11.6 Post-production (Onsite) Leaf Size Adjustment	64 
+11.7 Door Gaps	64 
+12 Insulation Performance	64 
+13 Conclusion	64 
+14 Declaration by the Applicant	65 
+15 Limitations	66 
+16 Validity	67 
+
+ 
+ 	 
+1	Foreword
+This Field of application report has been commissioned by Wood International Agency Ltd and relates to the fire resistance of 30 minute fire resisting doorset designs. 
+The report is for national application and has been written in accordance with the general principles outlined in BS EN 15725.  
+This Field of Application (scope) uses established empirical methods of extrapolation and experience of fire testing similar doorsets, in order to extend the scope of application by determining the limits for the designs based on the tested constructions and performances obtained. The scope is an evaluation of the potential fire resistance performance, if the variations specified herein were to be tested in accordance with BS 476-22: 1987. 
+This scope document cannot be used as supporting documentation for either a UKCA or CE marking application, nor can the conclusion be used to establish a formal classification against EN13501-2. 
+This Field of Application has been written using appropriate test evidence generated at UKAS accredited laboratories, to the relevant test standard. The supporting test evidence has been deemed appropriate to support the manufacturers stated door design and is summarised in section 3. 
+The scope presented in this report relates to the behaviour of the proposed door design variations under the particular conditions of the test; they are not intended to be the sole criterion for considering the potential fire hazard of the door assembly in use. 
+This Field of Application has been prepared and checked by product assessors with the necessary competence, who subscribe to the principles outlined in the Passive Fire Protection 
+Forum (PFPF) ‘Guide to Undertaking Technical Assessments of the Fire Performance of Construction Products Based on Fire Test Evidence’. The aim of the PFPF guidelines is to give confidence to end-users that assessments that exist in the UK are of a satisfactory standard to be used for building control and other purposes. 
+The drawings provided in this report are for guidance and illustrative purposes only. Please note that the written scope of application takes precedence.   
+ 	 
+2	Proposal
+It is proposed to consider the fire resistance performance of the specified proprietary Therman™ 44 doorset designs, for 30 minutes fire resistance integrity performance (and where appropriate insulation performance), if the doorset designs were to be tested to the requirements of BS 476-22: 1987, Methods for determination of the fire resistance of nonloadbearing elements of construction. 
+The field of application defined in this report is based on the fire resistance test evidence for the doorset design, which is summarised in section 3. Analysis of specific construction details that require assessment are given within this report against the relevant element of construction, as appropriate. 
+Whilst specific items are included within this Field of Application report that may be used to provide additional performance characteristics (such as acoustic or smoke control for example), it is beyond the remit of this Field of Application report to provide scope for performance characteristics other than fire resistance integrity and (where applicable) insulation performance. Any other performance requirement for the door designs contained herein is to be subject to a separate analysis. 
+2.1 	Assumptions  
+• All densities referred to in this document are based upon an assumed moisture content of 12%.  
+• It is assumed that unless otherwise documented in the field of application sections of this report, the doorset subject to this report will be constructed in accordance with the test evidence referred to herein.  
+• For components created using solid timber sections referred to in this assessment, it is assumed that, for all timbers, they will be of a quality deemed to meet or exceed class J30 as specified in BS EN 942: 2007, subject to adequate repairs, other than glazing beads which must meet a minimum class J10. Note that areas under intumescent seals/gaskets are not considered to be concealed faces and defects must be repaired.  
+• Where timber is referred to within this document it is assumed that the timber element is made from a continuous solid piece, unless specifically detailed otherwise. 
+• All dimensions detailed herein may be varied by ±2% except where minimum, maximum or a range of dimensions are given. 
+ 	 
+3	Test Data
+The test evidence summarised below has been generated to support the fire resistance performance of the door designs that are the subject of this field of application. The summary details are considered to be the key aspects of the design tested. These test summaries are not intended to be a definitive guide to constructing a doorset. The details for the construction of a doorset must be taken from other sections within this Field of Application. 
+Note: 
+1. Dimensions are in mm unless otherwise stated.  
+2. Abbreviations: (h) = height; (w) = width; (t) = thickness; (d) = deep: (l) = long. 
+3. Latches fitted but disengaged for the test, are reported as ‘unlatched’. 
+The test evidence has been generated across a number of different doorset configurations, including single leaf, double leaf, latched and unlatched doorsets as well as doorsets with sidescreens and fanlights.  
+The evidence has been generated to BS 476 Part 22: 1987 and EN 1634-1. The latter is known to be more onerous than the BS 476: Part 22: 1987 standard, primarily due to the use of plate thermocouples within the furnace to record the furnace temperature.  
+The same time temperature curve is used to control the temperature within the furnace for both test methods (the heating curve given within ISO 834-1). However, the plate thermocouple used to record the temperature within the furnace for the EN test method, requires a longer thermal exposure to read the same temperature as the probe thermocouple that is used for the BS 476: Part 22: 1987 test, particularly during the early stages of the test. Furthermore, the neutral pressure regime is positioned lower relative to the specimen height in a European fire door test, therefore resulting in greater relative positive pressure conditions than those expected in a BS 476-22: 1987 test, which has the potential to increase hot gases and flaming on the unexposed side. These factors result in more onerous test conditions for doorsets tested to the BS EN 1634-1 test standard compared with the BS 476: Part 22: 1987 test standard, which has been demonstrated by testing the same products to both standards. 
+It is therefore the opinion of Warringtonfire that the evidence citied in the following section, tested to both named standards referenced above can be utilised in this assessment which will conclude in terms of the fire resistance performance of the Therman™ 44 doorset designs if tested in accordance with BS 476: Part 22: 1987.  
+ 	 
+3.1 	Primary Test Evidence
+The following summaries are provided to give the key details relevant to the tested specimen. Throughout this assessment report, relevant sections will reference the tests where they have been used to provide the scope of application. 
+ 	Test Report CFR2307121 Revision 1 
+Date of Test: 31st July 2023 Identification of Test Body: Cambridge Fire Research Ltd. UKAS No. 4319 Sponsor: Wood International Agency Limited Tested Product: 2No. Unlatched, Single Acting, Single Leaf, Therman™ 44 Timber Doorset with Glazed Apertures. The test specimens included the following key features: 
+• 2No. Glazed apertures consisting of Pyroguard Advance 7-1 glass with Sealmaster Ltd, Intumescent Foam Tape. 
+• 2No. Intumescent Seals Ltd, Therm-A-Seal 10 (w) x 4 (t) seals. Tested 
+Orientation: Doorset A: Orientated to open in towards the heating conditions of the test. 
+Doorset B: Orientated to open out away from the heating conditions of the test. Sampling information: The doorsets subject to testing were sampled by a representative of BM Trada on 22/07/23 under contract reference SC23181.  Test 
+Standard:  BS EN 1634-1:2014 +A1: 2018 Performance: Doorset A: Integrity:31 minutes Insulation:5 minutes Doorset B: Integrity: 30 minutes Insulation: 6 minutes. Insulation failure detailed above observed at the glazing location.  	 
+ 	Test Report WF535896
+Date of Test: 16th August 2023 Identification of Test Body: Warringtonfire Testing and Certification Ltd. UKAS No. 1762 Sponsor: Wood International Agency Limited Tested Product: Unlatched, Single Acting, Double Leaf, Therman™ 44 Timber Doorset with a Glazed Aperture to each leaf. The test specimens included the following key features: 
+• 1No. Glazed aperture fitted within the left leaf including AGC Pyrobelite 7 glass with Sealed Tight Solutions Ltd, ST105 GT, 1No. Glazed aperture fitted within the right leaf including Pyroguard Advance 7-1 with Sealed Tight Solutions Ltd, STS104SG. 
+• 1No. Sealed Tight Solutions Ltd, ST154FO 10 (w) x 4 (t) seal applied within the frame with 2No, Sealed Tight Solutions Ltd, ST104FO, 10 (w) x 4 (t) seals applied to the meeting edge. Tested 
+Orientation: The doorset was orientated to open in towards the heating conditions of the test. Sampling information: The doorsets subject to testing were sampled by a representative of BM Trada on 08/08/23 under contract reference SC23225. Test 
+Standard:  BS 476-22: 1987, Clause 7 Performance: Integrity: 25 minutes 
+Insulation: 25 minutes 
+In accordance with the note to clause 7.6.1.1 of BS 476-22: 1987 the glazed apertures were not evaluated for insulation. Failure Mode: Initial Failure: Cotton pad test applied to the top left corner of the glazed aperture on the right leaf, which resulted in ignition of the cotton pad at 25 minutes. 
+No further failure was observed until 32 minutes of test duration when continuous flaming was recorded at the top of the glazed aperture on the right leaf. Reason for UseIt can be observed from the testing undertaken that the right leaf glazed aperture consisting of Pyroguard Advance 7-1 with Sealed Tight Solutions Ltd, STS104SG glazing seal has failed prior to the intended 30 minutes fire resistance being achieved. Therefore, this glass and glazing system combination has not been included within the scope of this assessment.  
+ 
+No further failures were observed prior to the termination of the test at 33 minutes, it is the opinion of Warringtonfire that if the doorset design did not include this glazed aperture the premature failure would not have been observed and as such the report supports the configuration and perimeter sealing system as well as the successfully tested glazing design within the left leaf.  
+ 	 
+ 	Test Report WF535989
+Date of Test: 17th August 2023 Identification of Test Body: Warringtonfire Testing and Certification Ltd. UKAS No. 1762 Sponsor: Wood International Agency Limited Tested Product: Unlatched, Single Acting, Double Leaf, Therman™ 44 Timber Doorset with a Glazed Aperture to each leaf. The test specimens included the following key features: 
+• 1No. Glazed aperture fitted within the left leaf including AGC Pyrobelite 
+7 glass, 1No. Glazed aperture fitted within the right leaf including Pyroguard Advance 7-1 both including Dixons International Group, Intumescent Foam Glazing Tape. 
+• 1No. Lorient Polyproducts Ltd, LP1504, Type 617, 15 (w) x 4 (t) seal applied within the frame with 2No, Lorient Polyproducts Ltd, LP1004, Type 617, 10 (w) x 4 (t) seals applied to the meeting edge. Tested 
+Orientation: The doorset was orientated to open in towards the heating conditions of the test. Sampling information: The doorsets subject to testing were sampled by a representative of BM Trada on 08/08/23 under contract reference SC23227. Test 
+Standard:  BS 476-22: 1987, Clause 7 Performance: Integrity: 37 minutes 
+Insulation: 37 minutes 
+In accordance with the note to clause 7.6.1.1 of BS 476-22: 1987 the glazed apertures were not evaluated for insulation.  	Test Report WF535889 
+Date of Test: 23rd August 2023 Identification of Test Body: Warringtonfire Testing and Certification Ltd. UKAS No. 1762 Sponsor: Wood International Agency Limited Tested Product: 2No. Unlatched, Single Acting, Single Leaf, Flamebreak 430 Timber Doorsets with a Glazed Aperture to each leaf connected by modular timber sidelight and fanlight arrangement. The test specimens included the following key features: 
+	? 	Modular glazed sidelight and fanlight arrangement. Tested 
+Orientation: The doorsets were orientated to open in towards the heating conditions of the test. Sampling information: The doorsets subject to testing were sampled by a representative of BM Trada over a period between 15/08/23 – 23/08/23 under contract reference SC23230. Test 
+Standard:  BS EN 1634-1:2014 +A1: 2018 Performance: Integrity: 39 minutes 
+Insulation: 10 minutes 
+Though the tested sample included 2No. doorsets due to the fact that the two doorsets were connected, the test has been undertaken on the whole assembly as a single sample.  	 
+
+4 	Technical Specification 
+4.1 	General 
+The technical specification for the proposed door assembly is given in the following sections and is based on the test evidence for the door designs, summarised in section 3. 
+4.2 	Intended Use 
+The intended use of the proposed door assembly is summarised below:  
+A pedestrian doorset including any frame, door leaf or leaves which is provided to give a fire resisting capability when used for the closing of permanent openings in fire resisting separating elements, which together with the building hardware and any seals (whether provided for the purpose of fire resistance or smoke control or for other purposes such as draught or acoustics) form the assembly. 
+4.3 	Door Leaf 
+The Therman™ 44 door design can include various design features:  
+1. Glazing. 
+2. Various hardware options. 
+3. Decorative facings. 
+4. Decorative planted on timber mouldings. 
+5. Modular fanlights and sidelight arrangements. 
+Specific sections within this assessment must be referred to for design limitations and construction requirements.  
+Section 5 gives the description of leaf type in terms of composition and density etc. 
+4.4 	Door Frames 
+The construction of the door frames is engineered softwood, engineered hardwood, softwood or hardwood with minimum frame dimensions. For further information on the specification and construction of the door frames see section 7.  
+Specific sections within this assessment must be referred to for design limitations and construction requirements, where applicable. 
+ 	 
+4.5 	Doorset Configurations & Maximum Leaf Sizes 
+ 	General 
+The evaluation of the leaf size for the door leaf, frame and doorset configuration is based on the tests listed in Section 3 and takes into account:  
+1. The margin of over performance above 30 minutes integrity for the design, 
+2. The characteristics exhibited during test and, 
+3. The doorset configuration tested. 
+The evaluation of the permitted configurations included in this field of application is based on the configuration(s) tested. The principle is that the more components included in testing, for example, double door leaves and an overpanel – the harder it becomes to pass a test. In this specific example it is because the junction between two door leaves or door leaf and overpanel introduces a discontinuity into the doorset which can be a means of failure. This approach leads to the following statements: 
+1. A test on a double doorset is more onerous than a test on a single doorset. 
+2. A test on an unlatched doorset is more onerous than a test on a latched doorset as the leading edge is unrestrained and will deflect more in fire test conditions. 
+3. A doorset with transomed overpanel is considered to perform comparably to a similar doorset without an overpanel. This is because the transom structurally separates the overpanel from the doorset. 
+The leaf size for each door leaf option and configuration is linked to the perimeter intumescent specification and frame option. The following section details the maximum leaf size for each door leaf option and configuration based on the intumescent specification and frame details tested. 
+Doorsets with reduced height and width dimensions from those tested are deemed to be less onerous. Therefore, doors with dimensions less than those given in the leaf size envelopes (for the relevant intumescent specification) in the following sections are covered and may be manufactured. 
+ 	 
+ 	Configuration 
+The table below shows the permitted configurations for the Therman™ 44 doorset design, with the abbreviation and full description of each configuration.  
+The following sections details the assessed maximum leaf size envelopes for each permitted configuration based on the intumescent specification and door frame tested. 
+Doorset Configurations Depiction  Abbreviation Description  LSASD  Latched Single Acting Single Doorset  ULSASD Unlatched Single Acting Single Doorset  LSADD  Latched Single Acting Double Doorset  ULSADD Unlatched Single Acting Double Doorset  	Orientation 
+The majority of primary fire resistance tests for these designs were conducted with the doorset hung such that the door leaf opened towards the fire, which is considered the most onerous orientation in terms of fire resistance performance. Based on this testing, assessment is made that the doorsets to this design may be hung either away from or towards the fire risk side of the doorset. The rationale behind the direction of fire testing timber based doorsets opening towards the fire test conditions is further explained in Annex C of BS EN 1634-1:2014 +A1:2018. 
+Test reference CFR2307121 was undertaken with identical doorsets tested both opening in towards the furnace heating conditions and out away from the heating conditions. The doorset opening in achieved 31 minutes integrity and the doorset opening out achieved 30 minutes integrity performance, therefore directly supporting the bi-directional performance of the doorset design.   
+ 	 
+	Envelopes for each Configurations 
+The following sections detail the door leaf envelopes which indicate the permitted leaf sizes for the listed configurations based on the perimeter intumescent, door leaf option and door frame. 
+Unequal leaf double doorsets are covered by this assessment with no restriction on the smaller leaf dimensions providing it does not exceed the relevant leaf size envelope and is not smaller in width than 300mm.  
+For equal double doorsets both leaves must comply with the door leaf envelope size limitations. However, at smaller dimensions it must be ensured that the doorset remains operable. 
+A table of essential hardware is given in section 10.3 for each doorset configuration, as a minimum requirement for the doorset described. Changes to hardware can affect the intumescent specification and frame details which are subsequently considered for each specific hardware component, where required. 
+4.5.4.1 	General Note on Intumescent Seals 
+• Intumescent seals are to be fitted centrally unless stated otherwise. 
+• Intumescent seals are fully interrupted at hardware locations unless stated otherwise. 
+• Intumescent seals must run the full length of the leaf edge or frame reveals, with tightly formed abutting corner joints, unless stated otherwise. 
+• Vertical perimeter intumescent seals may include one tight butt joint in their length if needed.  
+o Where two seals are fitted, the joints must be offset by a minimum of 100mm and may not be coincident.  
+o Where one seal is fitted the joint must be in the lower half of the doorset. 
+4.5.4.2 	Explanation for following sections 
+The performance of a doorset in terms of configuration and size is dependent on the leaf type, perimeter intumescent used and frame type. These elements are not automatically interchangeable. The following sections present the envelopes for the Therman™ 44 leaf type and timber frame. Each envelope is linked to a specific perimeter intumescent which is given a unique reference and is based directly on test evidence. 
+The envelopes are presented as follows: 
+• for LSASD increasing in configuration complexity up to ULSADD 
+• for each configuration and leaf type, each frame type is considered separately, 
+• for each configuration, leaf type, frame type and intumescent specification is considered separately, and a unique envelope of permitted leaf sizes is presented based on the configuration, leaf type, frame type and intumescent and the envelope is directly linked to a unique test. 
+ 	 
+Summary of Permitted Configuration for Therman™ 44 blank & Frame Option 
+Permitted Configurations  Configuration LSASD ULSASD LSADD ULSADD Engineered 
+Softwood 	or 
+Hardwood Yes Yes No No Softwood 	or Hardwood frame* Yes Yes Yes Yes * See Section 7 for specific limitations with respect to the framing types  
+ 	 
+
+
+Intumescent Specification for LSASD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/1 (CFR2307121) Therm-A-Seal Intumescent Seals Ltd Head & Jambs: 
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in frame reveal or leaf edges AS/2 (WF535896) STS154FO Sealed Tight Solutions Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or 
+leaf edges Intumescent Specification for LSASD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/3 (WF535989) LP1504 Type 617 Lorient Polyproducts Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or 
+leaf edges  	 
+
+
+Intumescent Specification for ULSASD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/1 (CFR2307121) Therm-A-Seal Intumescent Seals Ltd Head & Jambs: 
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in frame reveal or leaf edges AS/2 (WF535896) STS154FO Sealed Tight Solutions Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or 
+leaf edges Intumescent Specification for ULSASD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/3 (WF535989) LP1504 Type 617 Lorient Polyproducts Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or 
+leaf edges  	 
+
+
+Intumescent Specification for LSADD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/2 (WF535896) ST154FO 
+& 
+ST104FO Sealed Tight Solutions Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or leaf edges. 
+Meeting Edge:  
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in the primary leaf edge Intumescent Specification for LSADD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/3 (WF535989) LP1504 
+& 
+LP1004 
+Type 617 Lorient Polyproducts Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or leaf edges. 
+Meeting Edge:  
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in the primary leaf edge  	 
+
+
+Intumescent Specification for 
+ULSADD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/2 (WF535896) ST154FO 
+& 
+ST104FO Sealed Tight Solutions Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or leaf edges. 
+Meeting Edge:  
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in the primary leaf edge Intumescent Specification for 
+ULSADD Intumescent 
+Spec. Reference & 
+(Test Reference) Make / Type Manufacturer / Supplier Location & Size AS/3 (WF535989) LP1504 
+& 
+LP1004 
+Type 617 Lorient Polyproducts Ltd Head & Jambs: 
+1No. 15mm wide x 4mm thick 
+fitted centrally in frame reveal or leaf edges. 
+Meeting Edge:  
+2No. 10mm wide x 4mm thick fitted 10mm apart centrally in the primary leaf edge  	 
+
+5 	General Description of Construction 
+5.1 	Leaf Core Construction 
+The door leaf option detailed below is approved by this assessment.  
+ 	Therman™ 44 – 44mm thick 
+The basic tested construction of this door leaf design comprises the following: 
+Element Material Dimensions (mm) Minimum 
+Density 
+(kg/m3) Core Inner Albasia Veneer (Short Grain) 2.1 (t) 180-335 Outer Albasia Falcata (A Grade) 25 - 35 (w) x 
+18.4 (t) 
+(Nominal individual lamel size) 300-335 Facing Inner: Rotary Albasia Falcata Veneer (Horizontally orientated) 1.65 (t) 180-335 Outer: Rotary Albasia Falcata Veneer (Vertically orientated) 1 0.9 (t) 180-335 EV Veneer 1 0.8 (t) 700 The leaf must be lipped as specified in section 5.3. 
+The minimum leaf thickness after calibration is 43mm (i.e. a maximum of 0.5mm from both sides). 
+The minimum leaf thickness after finishes applied is 44mm. 
+ 
+5.2 	Leaf Size Adjustment During Manufacturer 
+Door leaves may be altered as follows prior to the machining for hardware.  
+Pre-Machining Leaf Size Adjustment Specification Element Reduction Leaf The size of the leaf may be reduced in height or width without restriction for manufacturing purposes, providing the finished leaf is lipped in accordance with section 5.3. Timber Lipping The timber lipping thickness can be reduced after it has been glued in place, providing it is not reduced below the minimum stated in section 5.3. 5.3 	Timber Lipping 
+The testing documented in section 3 has generally been undertaken using 6-8mm thick lippings applied to all edges using species at varying densities. A number of different adhesives have also been used to seal the lippings. 
+On the above basis, Therman™ 44 door blanks must be lipped with the following specification: 
+Timber Lipping Specification for Therman™ 44 door blanks Material Size 
+(mm) Min Density (kg/m3) Hardwood  Flat = 6 – 12 thick 640 Edgeman Engineered Hardwood Flat = 6 – 12 thick 700 Notes: 
+1. Rounded and / or Rebated lippings are not permitted. 
+2. All lippings are to be the same thickness as the door leaf.  
+3. Overpanels separated from the leaf heads with a transom shall be lipped on all edges as detailed above. 
+4. Single and double doorsets with or without transomed overpanels require lipping on all edges. 
+5. Lippings can be bonded with PU or PUR. These may be hand applied or may be applied using an edgebander. With either method it must be ensured that sufficient glue is applied to across the entire surface area between the 2No substrates being adhered to guarantee a robust bond. Other manufacturers guidance should be followed, for either installation application.  
+6. It is not permitted to construct a finished lipping size as given above from multiple layers of material; the applied lipping must be made from one continuous piece. 
+7. The Therman ™ 44 doorset design has been tested with a 3mm x 3mm chamfer to all leaf edges and adjacent frame edges. It is therefore the opinion of Warringtonfire that edge profiling can be any size or shape up to a maximum of 3mm x 3mm chamfer. Examples depicted below: 
+ 	 
+  Permitted Lipping Profiling (Dimensions above are in mm)  
+5.4 	Decorative & Protective Facings 
+Relatively thin leaf facing materials are deemed to be decorative and their application is not considered to be of detriment to the overall stability or performance of the doorset design. In fact, when applied as an additional component on top of the minimum facing material required by the door blank, they are likely to provide a small enhancement in performance as an additional barrier to fire spread, although, this is likely to be negligible.  
+The following additional facing materials are therefore permitted to the leaf for this door design since they would have limited influence under fire resistance test conditions. 
+Decorative & Protective Facing Specification Facing Material Maximum Permitted Thickness (mm) Paint5 0.2 Timber veneers3 2 Plastic laminates3 2 PVC3 2 Cellulosic and non-metallic foils3 0.4 Notes: 
+1. Metallic facings are not permitted except for push plates and kick plates. 
+2. The door leaf thickness may be reduced on both sides by a maximum of 0.5mm for calibration purposes in order to accommodate the chosen finish. The minimum overall leaf thickness must remain at 44mm after finishing has been applied.   
+3. Materials may over sail lippings but must not return around leaf edges, except for paint which is permitted to be applied to the leaf edges, subject to meeting other requirements detailed herein. 
+4. For all options, materials must not conceal intumescent strips.  
+5. Intumescent paints are not permitted. 
+Decorative finishes listed above may be painted within the limits for paint finish, above.  
+5.5 	Decorative Planted on Timber Mouldings 
+Decorative mouldings can be applied to the face of the leaf providing the following criteria is adhered to: The mouldings: 
+1. Are surface applied to the door 
+2. Are no higher than 30mm i.e. proud of the door 
+3. Are no wider than 50mm  
+4. Cover no more than 20% of the door leaf area 
+5. Are no closer than 80mm to the door leaf edge 
+6. Are bonded into position, small pins may be additionally used with no greater penetration than 12mm into the door core. 
+7. Are bonded using any glue which is suitable for bonding the lipping of the door. 
+It has been possible to include the proposed decorative mouldings as they would be expected to char and fall away from the surface of the leaf under test conditions. In fact, they are likely to provide a protective barrier to the area of the leaf to which they are applied until which time they fall away. 
+5.6 	Astragal 
+The inclusion of timber astragals is permitted providing they meet the following specification: 
+• The astragal shall consist of the same material as the door frame with at least the same or greater density. 
+• The astragal shall be mechanically fixed using steel screws at no greater than 250mm centres, the screws shall penetrate into the substrate by at least 15mm and no greater than ½ the thickness of the substrate. 
+• The astragal shall measure 50mm wide x 18mm thick and shall be positioned centrally over the junction. 
+Other materials or dimensions of astragals are not permitted. 
+It has been considered possible to include the above specified astragal based on the fact that the effective rebate of the doorset design will remain unchanged. The addition of the astragal element will provide further protection at the perimeter gaps increasing the time in which failure modes may develop. 
+Astragals are permitted in the following designs: 
+• Optionally permitted at meeting edges of double doors. 
+Astragals may only be fitted to one side of any single doorset design. 
+When fitted to double doors, a door selector as defined within section 10.9.4 shall be fitted to the doorset to ensure functionality. 
+ 	 
+6 	Glazing within the Leaf 
+6.1 	General 
+The testing conducted on the Therman™ 44 door designs has demonstrated that they are capable of tolerating glazed apertures, whilst providing a margin of over performance. For example, test reference CFR2307121 included 2No. glazed apertures measuring 1500mm & 300mm high x 250mm wide fitted 100mm from the head and closing edge of the leaf, with 80mm between each of the apertures. 
+Glazing is therefore acceptable within the following parameters. 
+The maximum assessed total aperture area for any individual door leaf is 0.562m².  
+Any single aperture may not be greater than 0.468m². Specific permitted height and widths are given below relative to the specific glass and glazing system. 
+Multiple apertures are acceptable within the permitted glazed area, with a minimum dimension of 80mm of core between apertures. 
+Apertures must not be less than 100mm from top and side edges and 100mm from the bottom edge.  
+Aperture shape must be rectilinear unless alternative shape has been proven by test. 
+Apertures cannot be rotated (e.g. a square to be rotated to create a diamond effect). 
+ 	 
+
+	Single Pane Glass & Glazing Systems 
+The glazing system must be one of the following proprietary tested systems. 
+The table below specifies the maximum assessed height, width and area of glazing for each permitted glass type and glazing system. 
+The numerical figures in the main body of the table are the maximum height and width (mm) as well as the maximum permitted area of glass (in m2) that is considered acceptable for an individual glazed aperture, based upon the specific system. 
+The total area of all glazed apertures must not exceed those stated in Section 6.1 above.  
+       Glass & Glazing System Specification Maximum Assessed Height, Width (mm) & Area (m2) Glass Type & 
+Manufacturer 
+(Test reference) Glazing System & Manufacturer (Test reference) 1. 2. Sealmaster Ltd 
+Intumescent Foam Tape 
+15mm (w) x 5mm (t) CFR2307121 Sealed Tight Solutions Ltd, 
+ST105 GT 
+10mm (w) x 5mm (t) 
+WF535896 1 AGC Glass UK Limited 
+Pyrobelite 7 
+WF535896 & WF535989 Height: 1800mm 
+Width: 300mm Area: 0.468m2  
+Height: 1800mm 
+Width: 300mm 
+Area: 0.468m2 2 Pyroguard UK Limited 
+Pyroguard 2-EW30/7-1 
+CFR2307121 & WF535989 Height: 1800mm 
+Width: 300mm 
+Area: 0.468m2 Not Permitted. Note: 
+1. All glass types must be fitted fully in accordance with the manufacturers' tested details/installation requirements, particularly with respect to edge cover and expansion tolerances. 
+ 	 
+6.2 	Glazing Beads & Installation 
+The models in the following sections are provided as a generalised illustration of the glazing installation only; actual installation must be as per the specific details noted within this document.  
+ 	Chamfered Bead 
+Based on the testing undertaken on the Therman™ 44 doorset design the glazed apertures are permitted with one of the following glazing bead options, relevant to the glass and glazing system used. 
+6.2.1.1 	Option 1 
+Permitted with glazing system 1 & 2 (Sealmaster Ltd, Intumescent Foam Tape & Sealed Tight Solutions Ltd, ST105 GT) from the table in Section 6.1.1    
+ Minimum Permitted Dimensions Maximum Permitted Dimensions • The glazing beads must be created from hardwood of a minimum 640kg/m3 density.  
+• The dimensions given above are the minimum and maximum permitted glazing bead dimensions, the glazing bead must be between these dimensions, the 15-degree chamfer must remain and the bead fixings must have the same or greater embedment within the core. 
+• Glazing beads must be retained in position with a minimum of 38mm long steel pins or 38mm long No. 6-8 screws, inserted at 35-40º to the vertical. 
+• Fixings must be at 200mm maximum centres and no more than 50mm from each corner. Pneumatically fired pins are acceptable providing the pins meet the specification given in section 6.2.2 below. 
+• The fitting of the glazing seal between the bead and the glass should be in accordance with the manufacturer’s instructions.  
+• Glass shall be aligned within the aperture using hardwood or non-combustible setting blocks placed at the bottom horizontal edge only, sized to provide edge cover and expansion allowance as the specific system requires. 
+• A 6 – 10mm thick square aperture liner is optionally permitted for use with the above bead providing it is constructed from hardwood of minimum density 640kg/m3 and glued in position using a UF, PVA or PU type adhesive.  	 
+	Glazing Pins for Glazing Within Leaf 
+The following pin specification is permitted and has been considered suitable for applications requiring a pin fixing to glazing beads: 
+Option 1 – Round, Oval & Rectangular Pins 
+The following dimension of pin has been approved for round, oval and rectangular shaped pins which are hand applied: 
+• Minimum Standard Wire Gauge (SWG) 16. 
+• Minimum cross section area of 2.03mm2. 
+• Minimum linear dimension of 1.6mm in any direction, see figure below. The maximum pin diameter or any linear dimension may be no greater than 2.0mm. 
+ 
+Option 2 – Gun (Pneumatically) Fired Rectangular Pins 
+The following dimension of rectangular pin has been deemed suitable for gun (pneumatically) fired applications.  
+• Minimum Standard Wire Gauge (SWG) 16.  
+• Minimum cross section area of 2.24mm2. 
+• Minimum linear dimensions as shown in the figure. 
+• The 	1.6mm 	dimension 	is 	predominately 	oriented perpendicular to the glass, where possible. 
+• The maximum pin diameter or any linear dimension may be no greater than 2.0mm. 
+ 
+Pins with dimensions less than those stated above are not covered by this assessment. 
+ 
+ 
+ 	 
+7 	Door Frame Construction 
+7.1 	Details for Frame 
+The door frames listed below are the minimum size and density which have been successfully tested and assessed by this report. The frame must be constructed to meet the following specification for single acting frames. 
+Frame Specification Material Minimum Section Size 
+(mm) Minimum Density 
+(kg/m3) Engineered Softwood or Hardwood Frame: 70 (d) x 48 (w) with a 18 (h) rebate 510 Softwood or Hardwood 2 Frame: 70 (d) x 30 (w) 
+(excluding stop) 
+Stop: 20 (d) x 12 (h) 
+(integral or planted on) 510 Note: 
+1. Engineered Softwood or engineered hardwood detailed above is only acceptable for single leaf doorset configurations. 
+2. Minimum section size is subject to size of hardware and the use of transomed overpanel (see frame details below and Section 8.2.2). 
+3. The Therman ™ 44 doorset design has been tested with a 3mm x 3mm chamfer to all leaf edges and adjacent frame edges. It is therefore the opinion of Warringtonfire that edge profiling can be any size or shape up to a maximum of 3mm x 3mm chamfer. Examples depicted in section 7.1.2. 
+ 	 
+	Standard frame detail 
+The diagram below shows detail of the standard frame construction. Minimum section is permitted in two sizes subject to hardware size and the use of transom overpanel. Any profiling to the lipping must comply with section 5.3. 
+A: Frame depth = 70mm minimum  
+B: Frame width = 30mm minimum 
+C: Stop width = 12mm or 18mm minimum depending on the material used as detailed in section 7.1. 
+Minimum section size when using a transomed overpanel: 
+A: Frame depth = 70mm minimum  
+B: Frame width = 44mm minimum 
+  C: Stop width = 12mm or 18mm minimum depending on  the material used as detailed in section 7.1. applied to each side of the frame 
+ 	Frame edge profiling 
+The Therman ™ 44 doorset design has been tested with a 3mm x 3mm chamfer to all leaf edges and adjacent frame edges. It is therefore the opinion of Warringtonfire that edge profiling can be any size or shape up to a maximum of 3mm x 3mm chamfer. Examples depicted below. 
+   Permitted frame edge profiling 
+(Dimensions above are in mm)  	 
+7.2 	Door Frame Joints 
+Below are depictions of the door framing joints that are deemed acceptable. Please note that the drawings are provided as general illustrations of each type of door frame joint; actual construction in terms of intumescent seal location and material, etc. must be as the text within this document specifies. The door frame joints are required to be tight, with no gaps, and require mechanical fixing with the appropriate size ring shank nails or screws. Frame joints must additionally be reinforced with the adhesives approved for the application frame jointing detailed within section 9.  
+	 	 
+Half Lapped Joint Mitre Joint 	 	 
+	Mortice & Tenon Joint 	Butt Joint 
+ 
+Trenched Joint 
+	Approved door frame jointing options 	 
+7.3 	Decorative Facings 
+Relatively thin facing materials are deemed to be decorative and their application is not considered to be of detriment to the overall stability or performance of the doorset design.  
+The following additional facing materials are therefore permitted to the frame for this door design, including frame reveal, since they would have limited influence under fire resistance test conditions. 
+Decorative & Protective Facing Specification Facing Material Maximum Permitted Thickness (mm) Paint3 0.2 Timber veneers 0.7 Notes: 
+1. Facing materials not listed above are not permitted. 
+2. For all options, materials must not conceal intumescent strips.  
+3. Intumescent paints are not permitted. 
+Decorative finishes listed above may be painted within the limits for paint finish, above. 
+ 	 
+
+8 	Overpanels & Fanlights, Sidepanel & Sidelights 
+Overpanels, fanlights, sidepanels and sidelights are permitted based on the testing as summarised within section 3, the following sections outline the constructional details of each of the permitted elements and limitations associated with each configuration.  
+8.1 	General 
+The testing undertaken on the Therman™ 44 doorset design allows for the application of: 
+Solid overpanels with two framing options (Modular & Transomed). 
+Solid sidepanels with one framing option (Modular). 
+Glazed fanlights with one framing option (Modular). 
+Glazed sidelights with one framing option (Modular). 
+Framing options are detailed in the following section depending on the panel or glazing utilised. 
+It is possible to utilise both methods of framing within any single doorset design providing the restrictions given in the following sections are adhered to. i.e. it is possible to provide a doorset with a solid overpanel separated by a shared transom with a modular framed sidelight beside it. 
+In all cases the overall height and width permitted for the Therman™ 44 doorset design shall not exceed 2950mm high x 2950mm wide. 
+8.2 	Framing 
+The following framing options as detailed below are permitted for the Therman™ 44 doorset design and are permitted depending on solid panel arrangement or glazed fanlight / sidelight utilised. Information on the frame type permitted for the solid panel or glazed element is detailed in sections 8.2.1 – 8.2.2. 
+ 	Modular Framing 
+Modular framing for the purpose of this document is considered to be an element (glazing or panel) which is independently framed and fixed to the frame of a doorset design. An example of a modular framed solution is given below.  
+ 
+Single leaf, single acting doorset with glazed modular sidelight. 
+ 	 
+8.2.1.1	Standard Frame Detail (Modular Framing) 
+The frames listed below are the minimum size and density which have been successfully tested and assessed by this report. The frame must be constructed to meet the following specification for modular units containing solid panels or glazing, the frame sections shall be meet this specification on all four edges. 
+Modular Frame specification Material Minimum section size (mm) Minimum density (kg/m3) Softwood or Hardwood Frame: 70 (d) x 30 (w) 510 A: Frame depth = 70mm minimum  
+B: Frame width = 30mm minimum 
+ 
+Note: Back to back framing sections require additional intumescent grooves as described in Section 8.2.1.5. 
+ 
+Notes:  
+It is possible to include a 3mm x 3mm quirk detail to the rear edges of the frame where the jointing to the door frame or adjacent modular framing element shall occur. 
+The depth of the modular frame and the door frame shall be equal, this may result in increasing the depth of the permitted door frame to match the modular frame dimension, or vice versa. In all cases the greater dimension shall be used. 
+ 	 
+8.2.1.2	Transom or Mullion Detail (Modular Framing) 
+It is possible to include a single transom in a modular unit applied to the side of a doorset and / or a single mullion to a modular unit applied to the head of a doorset.  
+When applied the transom or mullion shall meet the following specification: 
+Modular Frame specification Material Minimum section size (mm) Minimum density (kg/m3) Softwood or Hardwood Frame: 70 (d) x 44 (w) 510 The transom or mullion when applied shall be mortice and tenon jointed as depicted in section 
+8.2.1.3. The joints are required to be tight, with no gaps, and require mechanical fixing with 2No. Ø5 x 80mm steel screws. 
+A: Frame depth = 70mm minimum 
+B: Frame width = 44mm minimum 
+ 
+Transoms when applied shall not be greater than 1000mm from the centre of the transom to the notional floor level. This may inhibit the use of transoms in some configurations. 
+Mullions shall not be applied in modular sidepanels or sidelights. 
+It is possible to include a solid panel and glazing arrangement which are permitted as detailed in section 8.2.3 and 8.2.4 either side of a transom within a modular unit applied to the side of a doorset subject to the positioning requirement of the transom given above and the maximum permitted glass or panel size given in the following sections. 
+ 	 
+8.2.1.3	Frame Jointing (Modular Framing) 
+Below are depictions of the framing joints that are deemed acceptable for corner jointing of modular framing. Please note that the drawings are provided as general illustrations of each type of frame joint; actual construction in terms of intumescent seal location and material, etc. 
+must be as the text within this document specifies.  
+	 	 
+Double Rebated Joint Mitre Joint 	 	 
+Mortice & Tenon Joint Butt Joint  
+Trenched or Half Lapped Joint 
+The modular frame joints are required to be tight, with no gaps, and require mechanical fixing with 2No. Ø5 x 70mm steel screws. Frame joints shall additionally be reinforced with the adhesives approved for the application frame jointing detailed within section 9. 
+ 	 
+8.2.1.4	Attachment Technique (Modular Framing) 
+The modular framing shall be affixed to the door frame or adjacent modularly framed units utilising steel screws appropriate for use with timber substrates. 
+Screws must be fixed between 50mm and 100mm from corners at maximum of 388mm centres from each face and staggered so that a fixing is present from alternate faces. Fixings shall penetrate approximately 2/3rd depth of the adjacent timber section. 
+The joint between the modular elements and the door frame or adjacent modularly framed units may additionally be reinforced with the adhesives approved for the application frame jointing detailed within section 9. 
+8.2.1.5 	Intumescent Sealing Between Frame Elements (Modular Framing) 
+As tested the modular frame section which abuts adjacent framing elements shall include 2No. grooves 15mm wide x 4mm deep which shall be filled with an acrylic intumescent mastic which has been tested in accordance with BS 476-22 or BS EN 1366-4.  
+The grooves shall be positioned 5mm either side of the centre line of the modular frame depth. 
+ 	Shared framing (Transomed) 
+Shared framing (Transomed) for the purpose of this document is considered to be when an element (panel) is contained within the frame for the doorset and separated from the door leaf by a shared transom. An example of a transomed solution is given below, though the construction of doorsets shall be as the text in this document specifies. 
+ 
+ 	 
+8.2.2.1	Standard Frame Detail (Transomed) 
+The permitted frame detail for the doorset shall meet the minimum requirements as outlined in section 7.1.1. The detail for the permitted transom can be found within section 8.2.2.2 below. 8.2.2.2 Detail for Transom (Transomed) 
+It is possible to include a transom to separate a panelled overpanel within a door frame from the door leaf. It is not permitted to include a mullion within a doorset which is constructed using the shared framing design. When applied the transom shall meet the following specification: 
+Modular Frame specification Material Minimum section size (mm) Minimum density (kg/m3) Engineered 	Softwood Hardwood or Transom: 70 (d) x 80 (w) with a 47 x 18 rebate to each face. 510 Softwood or Hardwood Transom: 70 (d) x 44 (w) 510 Notes: 
+When applied the material for the transom shall match the timber species used for the frame surrounding the door frame. 
+The transom when applied shall be mortice and tenon jointed as depicted in section 8.2.2.3. The joints are required to be tight, with no gaps, and require mechanical fixing with 2No. Ø5 x 80mm steel screws. 
+Minimum Section Size – Softwood or Hardwood Construction 
+A: Frame depth = 70mm minimum 
+B: Frame width = 44mm minimum 
+ 
+Minimum Section Size – Engineered Softwood Construction 
+A: Frame depth = 70mm minimum 
+B: Frame width = 44mm minimum 
+C: Rebate depth = 47mm minimum D: Rebate width = 18mm minimum 
+ 
+ 
+ 	 
+8.2.2.3	Frame Jointing (Transomed) 
+The door frame jointing method shall be as permitted for the door frame in section 7.2. 
+The transom when applied shall be mortice and tenon jointed as depicted in section 7.2. The joints are required to be tight, with no gaps, and require mechanical fixing with 2No. Ø5 x 80mm steel screws. 
+ 	Solid Panels  
+Solid side and overpanels are permitted for use with the modular framing option given in section 8.2.1 above (Modular Framing). 
+Solid overpanels are also permitted for use with the shared framing option given in section 8.2.2 above. (Shared Framing). 
+ 	 
+
+8.2.3.1	Solid Panel Construction (Side or Over Panels) 
+Based on the testing undertaken on the Therman™ 44 doorset design, it has been assessed to include the tested core construction as a solid fixed panel. This is because under test conditions the panel will be fixed within the perimeter framing limiting the deflection throughout the tests duration and enhancing the expected fire resistance performance which was observed for the door leaf itself. Therefore, the following specification shall be met: 
+Element Material Dimensions (mm) Minimum 
+Density 
+(kg/m3) Core Inner Albasia Veneer (Short Grain) 2.1 (t) 180-335 Outer Albasia Falcata (A Grade) 25 - 35 (w) x 
+18.4 (t) 
+(Nominal individual lamel size) 300-335 Facing Inner: Rotary Albasia Falcata Veneer (Horizontally orientated) 1.65 (t) 180-335 Outer: Rotary Albasia Falcata Veneer (Vertically orientated) 2 0.9 (t) 180-335 EV Veneer 1 0.8 (t) 700 The panel must be lipped on all edges as specified in section 5.3, and the panel shall be constructed of a single board, joints are not permitted within any panels. 
+The minimum panel thickness after calibration is 43mm (i.e. a maximum of 0.5mm from both sides). 
+The minimum panel thickness after finishes applied is 44mm. 
+ 
+8.2.3.2	Intumescent Sealing Arrangement (Side or Over Panels) 
+Solid side and overpanels when included within a doorset design (in either modular or shared framing) shall include the same intumescent specification as utilised within the door leaf or frame reveal.  
+Permitted intumescent specifications are detailed in section 4.5, while there may be multiple options for manufacturer and seal types only one specification can be utilised with any single doorset, and the specification used shall match the specification used on the door leaf. 
+8.2.3.3 	Fixing Arrangement (Solid Panels) 
+Solid panels must be fixed into the framing solution by steel screws appropriate for the timberbased substrates.  
+Screws shall be applied nominally centrally to the thickness of the solid panel, through the rear of the frame and transom reveal where applicable and shall penetrate into the solid panel by at least 30mm. 
+Fixings must be no more than 100mm from each corner and a maximum of 250mm centres in between. 
+When fitted the solid panel shall have no greater than 1mm between the panel edge and the adjacent framing element. 
+Where fitted within shared framing (transomed) the face of the solid overpanel shall be nominally in line with face of the door leaf. 
+Where fitted within modular framing the panel may either be nominally in line with the face of the door leaf or centrally within the modular frame depth. 
+8.2.3.4 	Maximum Dimensions (Solid Panels) 
+Based on the testing undertaken within the Therman™ 44 doorset design the following maximum dimensions are permitted for any single panel, subject to the doorset not exceeding 2950mm in height or width including outer framing dimensions. 
+Solid Panel & Frame Type Height (mm) Width (mm) Overpanel (Shared Framing) Up to maximum dimension given in section 4.5 for leaf size based on intumescent specification used. Overall doorset width Overpanel (Modular Framing) Overall doorset width Sidepanel (Modular Framing) 932  
+ 	Glazed Fanlights & Sidelights 
+Based on the testing detailed within WF535889 as summarised within section 3, it has been possible to consider the use of glazed fanlights and sidelights with the modular framing given in section 8.2.1 above. 
+The glazing system must be one of the following tested or assessed glass types and glazing systems.  
+ 
+
+Field of Application for: Wood International Agency Ltd The Therman™ 44 Range of Doorsets in Timber Based Door 
+Frames 
+30 minutes fire resistance  
+Report No: 
+WF538235 
+Page 44 of 68 
+
+ 
+8.2.4.1 	Permitted Glass types & Glazing Systems 
+The table below specifies the maximum assessed height and width that is deemed acceptable for different aspect ratios (‘landscape’ or ‘portrait’ orientation) for an individual glazed aperture, based upon the test evidence contained within section 3. 
+The dimensions of any single glazed aperture must not exceed that stated below, nor shall the entire assembly exceed 2950mm wide x 2950mm high for any single doorset including the dimension of the door frame and side or overpanels.  
+Note: sidelights including a horizontal transom separating two glass panes are to be considered as two apertures. 
+Test Reference Glass Type Perimeter 
+Frame 
+(w x t) mm Frame 
+Density 
+(kg/m3) Transom 
+/ Mullion 
+(w x t) mm Maximum Pane Dimensions 
+(mm) Max 
+Glazed 
+Area 
+(m2) Glazing System Glazing  Bead Size Bead Shape Bead:  
+Density 
+(kg/m3) Bead  Fixing Height Width WF535889 AGC 
+Pyrobelite 7 
+(7mm thick) 70 x 30 510 70 x 44 Landscape: 
+614 (h) x 2478 (w) Portrait: 
+2013 (h) x 494 (w) Landscape: 
+1.52 
+Portrait: 
+0.99 Sealed Tight 
+Solutions Ltd, 
+STS104SG 
+7 (w) x 15 (h) 
+(overall) 20 15 Splayed only (15 degrees) Hardwood 640 Steel screws 
+31mm long x Ø3.6mm  
+Fitted 70mm long at 200mm centres.  
+15 degrees to the face of the glass. Notes: 
+1. Further information on beading is found in section 8.2.4.2 below. 
+ 
+ 
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+8.2.4.2 	Glazing Beads & Installations 
+The following sections provide visual representation of the permitted glazing beads, these sections are to be read in conjunction with the table in section 8.2.4.1 which provides the relevant information relative to the tables below.  8.2.4.2.1 Chamfered Bead (Splayed) 
+Permitted with glass types from the table in Section 8.2.4.1 only and must be used with the specified glazing system in the table Splay Angle 
+Bead Height  
+	Bead Width  	 
+ • The glazing beads must be created from hardwood (not Beech fagus species). Refer to Section 8.2.4.1 for the required density for each system. 
+• Fixings requirements are identified in Section 8.2.4.1 for each glass & glazing system.  
+• The fitting of the glazing seal between the bead and the glass should be in accordance with the manufacturer’s instructions. 
+• Glass shall be aligned within the aperture using hardwood or non-combustible setting blocks placed at the bottom horizontal edge only, sized to provide edge cover and expansion allowance as the specific system requires 9 	Adhesives  
+The following adhesives must be used in the construction of the doorsets. These may be hand applied or may be applied using an edgebander. With either method it must be ensured that sufficient glue is applied across the entire surface area between the 2No substrates being adhered to guarantee a robust bond. Other manufacturers guidance should be followed, for either installation application used. 
+Element Product/Material Type Door blank core construction As per tested blank manufacturers specification consisting of: 
+	? 	E1 external melamine Timber lipping & decorative facings UF or D4 PU Frame Jointing PVA or D4 PU  
+ 	 
+10 	Hardware 
+10.1 	General 
+The following section details the permitted scope and constraints for fitting hardware to this door design. The following items of hardware must also bear the UKCA or CE Mark in addition to the requirements outlined in the following sections. The UKCA or CE mark must indicate that the hardware is suitable for fire doors in the classification code and declaration of performance issued by the hardware manufacturer: 
+• Latches & locks: Test Standard EN 12209 
+• Single axis hinges: Test Standard EN 1935 
+• Controlled door closing devices: Test Standard EN 1154 
+• Door co-ordinators: Test Standard EN 1158 
+• Emergency exit hardware: Test Standard EN 179 ? 	Panic exit hardware: Test Standard EN 1125. 
+The following sections consider what tested and assessed alternative items of essential and non-essential hardware can be used on the doorset range. 
+Items of hardware have been considered and approved via the following means:  
+• The component has been successfully tested to BS 476: Part 22: 1987 or BS EN 1634-1 in a suitably similar type of doorset e.g. timber leaf in timber frame. 
+• As a result of an assessment of the appropriateness of the item of hardware, based on test evidence not commissioned by Wood International Agency Ltd. 
+• As a result of the Certifire approval of the item of hardware. 
+Each section will consider the named item of hardware and detail if there are any limitations associated with:  
+• Leaf size 
+• Configuration 
+• Intumescent seals 
+• Intumescent protection 
+• Frame configuration requirements 
+No item of rebated hardware should be within 200mm of another item of rebated hardware unless there is test evidence to demonstrated they can be in closer proximity.  
+Hardware items should generally be fitted in accordance with the manufacturer’s instructions. However, the parameters and requirements of this assessment always take precedence, including specified protection such as hardware gaskets. Referenced Certifire approved hardware may be incorporated subject to the design, material and dimensional limitations identified within this assessment report and identified on the relevant Certifire certificate.  
+ 	 
+10.2	 Intumescent to Hardware  
+The intumescent materials used to protect hardware that have been tested and assessed for this doorset design are detailed below. Note that any one of the product/manufacturer options listed in the table may be used in the specific application noted. However, only 1No manufacturer should be considered per doorset application. 
+The door gap perimeter intumescent seal specifications are documented in conjunction with the leaf envelope size limitations in section 4.  
+Hardware Intumescent Specification Item Location Thickness and Product / Manufacturer Hinges Fitted under each hinge blade. 1 (t) Interdens® 
+1 (t) Sealed Tight Solutions Ltd, raw graphite 
+1 (t) Norseal NOR910 – 100x30R Lock/latches Under forend, keep and encasing the latch body. 1 (t) Lorient Polyproducts Ltd, MAP 
+1 (t) Sealed Tight Solutions Ltd, raw graphite 
+1 (t) Interdens® Flush bolts Lining the entire mortice for bolt and keep. 1 (t) Sealed Tight Solutions Ltd, raw graphite  
+1 (t) Lorient Polyproducts Ltd, MAP Gaskets must be fitted where required by supporting evidence, for example, test evidence or Certifire certificates. If gaskets are not required by the supporting evidence but are within this Field of Application, the requirements of this Field of Application take precedence. 
+It is permitted to use a minimum of 1mm thick up to 2mm thick MAP, Interdens or graphitebased gasket tested for the particular application [as appropriate for the hardware]. It is the opinion of Warringtonfire that the additional protection will not detract from the fire resistance performance under test conditions.  
+ 
+ 	 
+10.3 	Essential Hardware 
+The following table details the essential hardware for the various doorset configurations that are referenced in this assessment.  
+Configuration Hardware LSASD  ? 
+? 
+? Latch 
+Handle 
+Hinges ? Self-closing device (closer) ULSASD ? 
+? Hinges 
+Self-closing device (closer) LSADD  ? 
+? 
+? Latch 
+Handle 
+Hinges ? Self-closing device (closer) ? Flush bolt ULSADD ? 
+? Hinges 
+Self-closing device (closer) Note: 
+1. If an astragal is present on double leaf doorsets a door selector meeting the requirements within section 10.9.4 must be applied to the doorset design to ensure the door is able to close correctly. 
+2. Doorsets which are locked shut may omit the above detailed self-closing device, but the doorset must be in the closed and locked arrangement to maintain the fire resistance performance detailed herein. 
+ 	 
+10.4	Latches & Locks 
+Unless explicitly detailed within the sections below only 1No. lock or latch shall be applied within any individual doorset. When fitted the lock or latch body shall be installed within the vertical edge of the door leaf in all cases, at a height as detailed within the relevant section below. Refer to specific notes contained within each section for further considerations on lock or latch type. 
+ 	Single Point Engagement  
+The table below details the tested latches and locks that are approved.  
+Element Manufacturer & Product Reference Locks & latches 1. Vier Precision Design Ltd, ZDL7260RSS SL – CFR2307121 
+2. Arrone, AR810 Sashlock – WF535989 
+3. Arrone, AR8004 – WF535889 
+4. Carlisle Brass, LFB2SSS – WF535889 Alternatively, components with the following specification are also deemed acceptable. 
+Element Specification Maximum forend and strike plate dimensions 235mm high x 25mm wide x 4mm thick  Maximum body dimensions 165mm high x 106mm wide x 16mm thick Intumescent protection see section 10.2 Materials All parts essential to the locking/latching action (including the latch bolt, forend and strike) to be steel, stainless steel or brass with a melting point ? 800? C Notes: 
+1. 	In all instances the location of the handle must be between 800 – 1200mm from the threshold.  
+ 	 
+ 	Cylinders  
+The table below details the tested cylinders that are approved.  
+Element Manufacturer & Product Reference Cylinder 1. Vier Precision Design Ltd, V5EP70CTSCE – CFR2307121 
+2. Arrone, ARKD5130 70mm Key/Key – WF535989 
+3. Ultion, DCBSW3535DT-R177 – WF535889 Alternatively, components with the following specification are also deemed acceptable. 
+• Where required for use with single point latches, the cylinder must be constructed of either brass or steel with a melting point in excess of 8000C.  
+• The cylinder must be compatible with the lock/latch. 
+• Cylinder dimensions may be up to 33mm high x 17mm wide at the maximum dimension and may be of euro profile or oval. 
+• Single and double cylinders, along with cylinder & turn are permitted. 
+• Door preparation for single cylinders shall penetrate only 2/3rd the door thickness. 
+• Intumescent protection and tightness of fitting: 
+o As the lock body is protected with an intumescent material, maximum clearance between leaf and cylinder is 3mm to each edge. o 1mm thick MAP or non-pressure forming graphite intumescent around the cylinder is optionally permitted. 
+ 	 
+10.5	Handles & Escutcheons 
+The table below details the tested handles that are approved.  
+Element Manufacturer & Product Reference Handles Zoo Hardware Ltd, ZCS203SS – CFR2307121 
+Arrone, AR961/10-4 – WF535989 
+Arrone, AR961/60-SP-SSS – WF535889 Escutcheons Zoo Hardware Ltd, VCS2001SS – CFR2307121 
+Arrone, Arrone SSS – WF535989 
+Arrone, AR961/67-SSS – WF535889 
+Arrone, AR961/66-SSS – WF535889 Alternative handles are permitted providing they meet the specification given below: 
+• Steel, stainless steel, brass or bronze are permitted. 
+• Surface fixings or through fixings are permitted. If through fixed there must be no more than 0.5mm clearance between the hole and the fixing. 
+• The hole through the leaf to facilitate the spindle must be no greater than 20mm diameter. 
+The design may be either handle on rose or handle on back plate up to the following maximum sizes: 
+• Handle on rose with a rose diameter up to 52mm. 
+• Handle on back plate with a back plate size up to 243mm high x 32mm wide ? 	Handle length 250mm 
+The handle must be compatible with the lock/latch, such that the closing action of the doorset is not impeded. 
+Alternative escutcheons are permitted providing they meet the specification given below: 
+• Steel, stainless steel, brass or bronze are permitted. 
+• Surface fixings or through fixings are permitted. If through fixed there must be no more than 0.5mm clearance between the hole and the fixing. 
+• The escutcheon may be up to Ø52mm overall and up to 9mm thick. 
+ 
+ 	 
+10.6	Butt Hinges 
+The table below details the tested butt hinges that are approved.  
+Element Manufacturer & Product Reference Hinges 1. Vier Precision Design Ltd, ZHSS243RS – CFR2307121 
+2. Arrone, AR8182 – WF535989 Alternatively, components with the following specification are also deemed acceptable. 
+Element Specification Blade height: 90 - 120mm  Blade width  
+(excluding knuckle): 30 - 35mm Blade thickness 2.5 - 4mm Fixings: Minimum of 4 No. 30mm long No. 8 or No.10 steel wood screws per blade Materials: Steel or stainless steel  In all instances, the hinges must have the following specification.  
+Element Specification Hinge positions: If 3 hinges are required: Top 100 –150mm from the head to top of hinge 2nd  Minimum 98mm from top hinge or centrally fitted between top and bottom hinge Bottom 150 - 180mm from the foot of leaf to bottom of hinge If 4 hinges are required: Top 100-150mm from the head to top of hinge 2nd & 3rd  Equispaced between top and bottom or 2nd hinge 98mm from top hinge and 3rd hinge equally spaced between 2nd and bottom hinge Bottom 150 - 180mm from the foot of leaf to bottom of hinge Intumescent protection: See section 10.2 Note: 
+Leaves less than 2400mm (h) must be hung on a minimum of 3 hinges. Leaves greater or equal 2400mm (h) must be hung on 4 hinges. 
+ 	 
+10.7	Doorset Self Closing 
+Doorset automatic self-closing can be provided by: 
+	? 	Overhead face fixed closers 
+Automatic doorset self-closing devices such as transom mounted, and offset pivots used with floor springs and concealed closing devices are not considered acceptable for use with the Therman™ 44 doorset range.  
+ 	Overhead Face Fixed Closer 
+The table below details the tested overhead face-fixed closers that are approved.  
+Element Manufacturer & Product Reference Overhead facefixed closers Zoo Hardware Ltd, ZDC0024A-SN – CFR2307121 
+Arrone, AR1500 – WF535989 Alternatively, components with the following specification are also deemed acceptable. 
+? Certifire approved overhead face-fixed closers for 30-minute fire resistance applications on 44mm thick timber door hung within timber frames. 
+Note: 
+It must be ensured that the closer is of sufficient strength and power to ensure the door leaf/leaves fully engage into the frame reveal. 
+ 
+ 	 
+10.8	Bolts 
+ 	Flush Bolts 
+Flush bolts may be incorporated centrally into the top and bottom of one meeting edge, providing they are fitted within the leaf edge opposing the leaf edge with intumescent seals fitted. 
+These items are suitable in the following applications only: 
+Configurations: LSADD & ULSADD 
+The table below details the tested flush bolt that is approved, in all cases the tested flush bolt shall include the intumescent specification which has been proven within the doorset design as detailed within section 10.2.  
+Element Manufacturer & Product Reference Flush Bolts Arrone AR326B-200 – WF535896 & WF535989 Alternatively flush bolts up to the following maximum dimensions are permitted: 
+	? 	204mm long x 35mm deep x 20mm wide. 
+Flush bolts must be steel, and the mortice must be as tight to the mechanism as is compatible with its operation. All edges of the mortice of the keep and body must be protected with intumescent gaskets as specified in section 10.2. Alternatively, the hardware manufacturers tested gaskets may be used. 
+ 
+Flush bolt installation and intumescent protection 
+ 	 
+	Surface Mounted Face Fixed Bolts 
+These items are suitable in the following applications only: 
+Configurations: LSADD & ULSADD 
+Surface mounted face fixed bolts constructed from steel, stainless steel or bronze may be fitted to the top and bottom of one leaf within a double doorset design, providing the following maximum dimensions given below are not exceeded and the components are fitted at least 50mm from the meeting edge: 
+	? 	300mm long x 20mm wide (footprint). 
+Intumescent protection is not required. 
+ 	 
+
+10.9 	Non-Essential Hardware 
+Only the following items of non-essential hardware are permitted in addition to the prescribed essential hardware as detailed within section 10.3. 
+ 	Pull Handles 
+Steel, stainless steel or bronze handles may be surface-fixed or bolted through the door leaf, providing the length is limited to 1200mm between the fixing points. If through fixed, there must be no more than 1mm clearance between the hole and stud. 
+The above scope of application is provided as in the opinion of Warringtonfire they will not significantly affect the fire resistance performance of the doorset being considered. This is on the basis of the items being surface mounted away from the edge of the door leaf, therefore unlikely to influence the junction between door leaf and frame. Furthermore, they are generally of lightweight construction, meaning that they are unlikely to destabilise the doorset and therefore cause adverse deflection under test conditions. Lastly, the surface mounted arrangement of the features means no material is removed in terms of the overall thickness of the door leaf beyond the footprint of the item, therefore burn through of the leaf would not be expected. 
+ 	Push Plates & Kick Plates 
+Components with the following specification are also deemed acceptable as in the opinion of Warringtonfire they will not significantly affect the fire resistance performance of the doorset being considered. This is on the basis of the items being surface mounted away from the edge of the door leaf, therefore unlikely to influence the junction between door leaf and frame. Furthermore, they are generally of lightweight construction, meaning that they are unlikely to destabilise the doorset and therefore cause adverse deflection under test conditions. Lastly, the surface mounted arrangement of the features means no material is removed in terms of the overall thickness of the door leaf beyond the footprint of the item, therefore burn through of the leaf would not be expected.  
+Approved specification:  
+• Polymeric or metal face-fixed hardware such as push plates and kick plates up to 2mm thick may be surface fitted to the doorset. These items of hardware are permitted up to a maximum of 20% of the door leaf area if mechanically fixed and a maximum of 30% if bonded with a contact or other thermally softening adhesive. 
+• Plates must not return around the door edges.  
+• In all cases plates meeting the above specification shall not be applied under glazing beads or door stops. 
+ 	 
+	Security Viewers 
+Up to 2no. viewers are permitted within a single door leaf, viewers are to be positioned no closer than 100mm to door edges, glazed apertures or any other hardware component.  
+The table below details the tested security viewers that are approved, in all cases the tested viewers shall include the intumescent specification which has been proven within the doorset design.  
+Element Manufacturer & Product Reference Intumescent Protection Security Viewer UAP Ltd, SWALF – WF535889 1 (t) intumescent protection supplied with viewer Alternatively, components with the following specification are also deemed acceptable. 
+? Door security viewers with brass or steel bodies of a diameter less than or equal to 15mm may be used provided that the through-hole is bored tight to the case of the viewer (maximum tolerance +1 mm). Lenses must be glass and the item must be protected with a tested acrylic intumescent mastic and / or a 0.5 – 1.0mm thick graphite based intumescent wrap.  
+ 	Door Selectors 
+These items are suitable in the following applications only: 
+Configurations: All double leaf door configurations 
+These may be freely applied, provided that they are not invasive (i.e. require material to be removed to install the item) in the leaf edges or door frames and they do not interfere with the self-closing action of the door leaf. Products that are invasive will require fire resistance test/assessment evidence to support their use. 
+ 	Environmental Seals 
+WF535889 includes the successful testing of the Schlegal, Aquamac 21 smoke seal applied to the perimeter of a timber-based door set and achieving 39 minutes integrity performance. Based on this test and the similarity in construction of the timber-based leaves detailed herein, assessment has been made to include silicon based, flame retardant, acoustic, weather and dust seals (for example Schlegal, Aquamac 21 or Lorient IS1212, IS1511, IS7025, IS7060 or Sealed Tight Solutions Ltd. ST1009), providing their fitting does not interfere with the activation of the intumescent seals or hinder the self-closing function of the leaves. 
+When fitted, the seals must be either rebated into or adhered to the timber door of the frame. 
+ 	 
+	Threshold drop Seals 
+WF535889 includes the successful testing of the Norseal NOR810 drop down seal applied rebated centrally to the bottom edge of a 44mm thick timber-based door set and achieved 39 minutes integrity performance.  
+Based on this test and the similarity in construction of the timber-based leaves detailed herein, assessment has been made to include the Norseal NOR810 drop down seal within the Therman™ 44 doorset design. 
+When fitted the permitted drop-down seal may be optionally protected with 1mm thick intumescent fully encasing the drop down seal body within the leaf. 
+Note: if a rebated drop seal is fitted to the doorset then flush bolts, if approved, may not be fitted to the bottom of the doorset.  
+ 	Knockers, Numerals & Signage 
+Components with the following specification are deemed acceptable as in the opinion of Warringtonfire they will not significantly affect the fire resistance performance of the doorset being considered. This is on the basis of the items being surface mounted away from the edge of the door leaf, therefore unlikely to influence the junction between door leaf and frame. Furthermore, they are generally of lightweight construction, meaning that they are unlikely to destabilise the doorset and therefore cause adverse deflection under test conditions. Lastly, the surface mounted arrangement of the features means no material is removed in terms of the overall thickness of the door leaf beyond the footprint of the item, therefore burn through of the leaf would not be expected.  
+Approved specifications:  
+Knockers: 
+• Steel, stainless steel, aluminium or bronze knockers, may be surface fixed or bolted through the door leaf, providing they are fitted no closer than 75mm from the leaf edge, other elements of building hardware or to any glazing and are no greater than 200mm high x 120mm wide. If through fixed, there must be no more than 1mm clearance between the hole and stud. It is only permitted to fit 1No. knocker to any one doorset. Numerals & Signage: 
+• Steel, stainless steel, aluminium or bronze numerals or signage may be surface fixed to the door leaf, providing they are fitted no closer than 35mm from the leaf edge, other elements of building hardware or to any glazing. The dimension of each numeral or sign must be no greater than 200mm high x 100mm wide x 4mm thick. Up to 5No. numerals or signs may be applied to a doorset, numerals and signs may be applied adjacent to each other providing the 35mm from other elements as detailed above is maintained. 
+ 
+ 	 
+	Security Chains 
+Components with the following specification are also deemed acceptable as in the opinion of Warringtonfire they will not significantly affect the fire resistance performance of the doorset being considered. This is on the basis of the items being surface mounted with fixings positioned away from the edge of the door leaf and therefore unlikely to influence the junction between door leaf and frame. Furthermore, they are generally of lightweight construction, meaning that they are unlikely to destabilise the doorset and cause adverse deflection under test conditions. Lastly, the surface mounted arrangement of the features means no material is removed in terms of the overall thickness of the door leaf beyond the footprint of the item, therefore burn through of the leaf would not be expected.  
+Approved specification:  
+? Metallic security chains may be surface fixed to the face of the door leaf and frame, providing they are fitted such that they do not interfere with the junction between the leaf edge and the frame, and no material is removed in order to facilitate the fitting of the security chain. Screws to affix the security chain shall be no greater than 25mm long. 
+ 	Fire Door Identification Plates 
+Plastic or metal fire door identification plates may be glued or screwed to the face of the door leaves providing they are fitted no closer than 35mm from the leaf edge, other elements of building hardware or to any glazing. The dimension of any applied plate must be no greater than 100mm high x 100mm wide x 3mm thick. 
+These may be required to identify the following: 
+a) To be kept closed when not in use (Fire Door Keep Shut) 
+b) To be kept locked shut when not in use (Fire Door Keep Locked Shut) 
+c) Held open by an automatic release mechanism or free swing device (Automatic Fire Door Keep Clear). 
+When applied to a door leaf the plate shall be surface mounted to the face without removing material from the leaf. 
+ Panic Hardware 
+Panic hardware may be fitted, providing the installation does not require the removal of any timber from the leaf, stop or frame reveal and it does not interfere with the self-closing action of the door leaf. 
+The fitting of panic hardware is not considered to change the latching arrangement of the doorset and therefore the permitted leaf size shall be established using unlatched doorset configurations as detailed within section 4.5. 
+ 	 
+11 	Installation 
+11.1 	General 
+This section considers the installation of doorsets. This section considers: 
+• the door frame and architrave installation position relative to the wall 
+• the fire stopping between the frame and the wall 
+• the fixing requirement including packers 
+• the requirements for door edge gaps 
+• the trimming of door edges 
+11.2 	Door Frame Installation 
+The following figures indicate the acceptable door frame installations. Please note that the firestopping element is provided in the below 3D models as a generic-coloured seal. For further clarification of the approved firestopping systems see section 11.3.  
+Permitted Installations  Instances where the door frame and the wall of the same depth such that architraves are fitted flush to both faces. Note that the minimum door frame section size (width and depth) must be as per the requirements noted in this report – see door frame section. 
+Architraves requirements are documented in the firestopping section of this report.   Instances where the wall thickness is greater than the door frame depth.  
+In this scenario where required timber architraves fitted to both faces, fitted with a minimum 15mm overlap to the door gap, other than when the architrave abuts the wall.   Split frames are permitted providing that both frame sections are secured to the wall in accordance with section 11.5. Furthermore, the main frame section (from which the door is hung) must be constructed to at least the minimum door frame section size (width and depth) as per the requirements noted in this report – see door frame section. The extension piece must be constructed using the same timber species as the main frame section.  Note: 
+The drawings are provided as a generalised illustration of the door frame installation only; actual installation must be as per the text within this document specifies. 
+11.3 	Firestopping 
+The firestopping requirements between the back of frame and wall are dependent on the gap size between the substrates. The table below provides the requirements based upon the gaps size. Please note that in the 3D depictions noted below show the application where a door frame is of the same depth as the overall wall thickness. 
+Gap (mm) Requirement 3D model depiction 0 – 2 In practice, unlikely to occur, but if present, must be sealed with architraves, as below, fitted over a bead of acrylic intumescent sealant, tested as below.   N/A 3 – 10 Gap must be sealed on both sides with a 10mm depth of acrylic intumescent mastic, fire tested for this application to BS 476: Part 22: 1987 or BS EN 1634-1.  
+Timber architraves of a minimum 15mm thick may be fitted to both faces, fitted with a minimum 15mm overlap to the door gap.   Up to 20 Gap must be tightly packed with mineral fibre capped on both sides with a 10mm depth of acrylic intumescent mastic, fire tested for this application to BS 476: Part 22: 1987 or BS EN 1634-1.   
+Timber architraves of a minimum 15mm thick may be fitted to both faces fitted with a minimum 15mm overlap to the door gap.    	 
+Up to 20 Gap must be filled to the full depth with expanding PU foam, fire tested for this application to BS 476: Part 22: 1987 or BS EN 1634-1.   
+Timber architraves of a minimum 15mm thick must be fitted to both faces when utilising a full depth expanding PU foam, fitted with a minimum 15mm overlap to the door gap.  Over 20 This would be considered a poor preparation of the structural opening. A timber based or non-combustible subframe up to 50mm thick can be inserted and mechanically fixed to the wall bedded on acrylic intumescent mastic, the gap between door frame and subframe filled as follows: 
+Gaps 5 to 10mm filled on both sides with 10mm depth of acrylic intumescent mastic or full depth expanding PU foam, fire tested for this application to BS 476: Part 22: 1987 or BS EN 1634-1.  
+Timber architraves of a minimum 15mm thick must be fitted to both faces, fitted with a minimum 15mm overlap to the door gap and on to the wall.  
+  
+11.4 	Packers 
+Packers can be timber of equal density to the frame, or, plywood or plastic packers if fire tested for this application to BS 476: Part 22: 1987 or BS EN 1634-1. 
+ 	 
+11.5 	Wall Types, Structural Opening & Fixity 
+ 	Wall Types 
+The following wall types are approved for this doorset design: 
+a) Plasterboard clad timber stud partitions 
+b) Plasterboard clad steel stud partitions including timber lining 
+c) Masonry constructions 
+Wall types a & b above must have supporting fire resistance test evidence which demonstrates that it is capable of staying in place and intact for a minimum of 30 minutes supporting a doorset design. 
+Wall type c above must be determined to be able to provide at least the same level of fire resistance of the doorset design. 
+All wall types detailed above shall provide a suitable medium to permit adequate fixity, it is anticipated that for: 
+• Plasterboard clad timber stud partitions, the timber stud will be of sufficient dimensions such that the fixing for the door frame penetrates into solid timber. 
+• Plasterboard clad steel stud partitions will include a timber lining of sufficient dimensions such that the fixing for the door frame penetrates into solid timber. 
+• Masonry constructions are anticipated to be constructed of a solid block or brickwork to receive the fixings. 
+Note: Other tested solutions to achieve adequate fixity may be detailed within the above noted supporting fire resistance test evidence. 
+ 	Structural Opening 
+For all wall types the structural opening shall be square, plumb and provide a flat surface for installation of the doorset. 
+For flexible wall types such as steel and timber stud partitions the structural opening must be prepared in line with the test evidence provided by the wall manufacturer. 
+ 	Fixity 
+In all instances the fixing position must be such that it provides adequate restraint to the element of construction throughout the exposure to fire. This may therefore sometimes necessitate a twin line of fixings.  
+For single leaf doorset without side or over panels, the frame jambs only are to be fixed to the supporting construction using steel fixings at 475mm maximum centres and maximum of 150mm from corner. The fixings must be of the appropriate type for the supporting construction and must penetrate to a minimum depth of 50mm. It is not necessary to fix the frame head, although packers must be inserted.  
+For all other configurations of doorset, the vertical edges and upper horizontal framing section abutting the structural opening must also be secured to the wall using steel fixings at 472mm maximum centres and maximum of 80mm from corner. The fixings must be of the appropriate type for the supporting construction and must penetrate to a minimum depth of 50mm. 
+ 	 
+11.6 Post-production (Onsite) Leaf Size Adjustment 
+The Therman™ 44 range of doorsets may be altered as follows: 
+Leaf Size Adjustment Specification Element Reduction Lipping The post-production lipping thickness may be reduced by 1mm for fitting purposes, providing that the door gaps and intumescent conditions remain as required by this assessment and the minimum limitation in terms of lipping thickness is still maintained. 11.7 	Door Gaps 
+Door gaps and alignment tolerances must fall within the following range: 
+Door Gap & Alignment Tolerance Specification Location Dimension Door edge gaps A minimum of 2mm and a maximum of 4mm Alignment tolerances Leaves must not be proud of each other or from the door frame by more than 1mm. Threshold / Bottom edge of the leaf This is the maximum tolerance for fire resistance only. 8mm between bottom of leaf and top of floor covering. 12 	Insulation Performance 
+Insulation performance may be claimed for a doorset to this design meeting the following: 
+Insulation Performance Criteria Type Details Non-insulating Doorsets incorporating greater than 20% of noninsulating glazing and / or doorsets with glazed fanlights or sidelights Partially insulating Doorsets incorporating up to 20% of non-insulating glazing within the leaf without fanlights or sidelights Fully insulating Unglazed doorsets without fanlights or sidelights 13 	 Conclusion 
+If Therman™ 44 doorsets constructed in accordance with the specification documented in this field of application were to be tested in accordance with BS 476: Part 22: 1987, it is our opinion that they would provide a minimum of 30 minutes integrity and insulation (subject to section 12). 
+14	Declaration by the Applicant 
+1) We the undersigned confirm that we have read and comply with obligations placed on us by the Passive Fire Protection Forum (PFPF) Guide to undertaking technical assessments and engineering evaluations based on fire test evidence 2021 Industry Standard Procedure  
+2) We confirm that any changes to a component or element of structure which are the subject of this assessment have not to our knowledge been tested to the standard against which this assessment has been made. 
+3) We agree to withdraw this assessment from circulation should the component or element of structure, or any of its component parts be the subject of a failed fire resistance test to the standard against which this assessment is being made. 
+4) We understand that this assessment is based on test evidence and will be withdrawn should evidence become available that causes the conclusion to be questioned. In that case, we accept that new test evidence may be required. 
+5) We are not aware of any information that could affect the conclusions of this assessment. If we subsequently become aware of any such information, we agree to ask the assessing authority to withdraw the assessment. 
+(In accordance with the principles of FTSG Resolution No. 82: 2001) 
+ 
+Signed: 
+
+ 
+Name: Neil Harrison
+
+ 
+Position: Director
+
+ 
+Date: 	05-Apr-2024
+
+ 
+For and on behalf of: Wood International Agency Ltd 
+ 	 
+15	Limitations 
+The following limitations apply to this assessment: 
+1) This field of application addresses itself solely to the elements and subjects discussed and do not cover any other criteria or modifications. All other details not specifically referred to should remain as tested or assessed. 
+2) This field of application report is issued on the basis of test data and information to hand at the time of issue. If contradictory evidence becomes available to Warringtonfire, the assessment will be unconditionally withdrawn, and the applicant will be notified in writing. Similarly, the assessment evaluation is invalidated if the assessed construction is subsequently tested since actual test data is deemed to take precedence.  
+3) This field of application has been carried out in accordance with Fire Test Study Group Resolution No. 82: 2001. 
+4) Opinions and interpretation expressed herein are outside the scope of UKAS accreditation. 
+5) This field of application relates only to those aspects of design, materials and construction that influence the performance of the element(s) under fire resistance test conditions against the ISO 834 time/temperature curve that is stipulated in the standard this assessment concludes to. It does not purport to be a complete specification ensuring fitness for purpose and long-term serviceability. It is the responsibility of the client to ensure that the element conforms to recognised good practice in all other respects and that, with the incorporation of the guidance given in this field of application, the element is suitable for its intended purpose. 
+6) This field of application report represents our opinion as to the performance likely to be demonstrated on a test in accordance with BS 476: Part 22: 1987, on the basis of the test evidence referred to in this report. We express no opinion as to whether that evidence, and/or this field of application would be regarded by any Building Control authorities or any other third parties as sufficient for that or any other purpose. 
+7) This report may only be reproduced in full. Extracts or abridgements of reports shall not be published without permission of Warringtonfire. All work and services carried out by Warringtonfire Testing and Certification Limited are subject to, and conducted in accordance with, the Standard Terms and Conditions of Warringtonfire Testing and Certification Limited, which are available at https://www.element.com/terms/termsand-conditions or upon request. 
+8) The version/revision stated on the front of this field of application supersedes all previous versions/revisions and must be used to manufacture doorsets from the stated validity date on this front cover. Previous revisions of the Field of Application cannot be used once an updated Field of Application has been issued under a new revision.  
+ 
+ 	 
+16	Validity 
+1) The assessment is initially valid for five years after which time it is recommended to be submitted to Warringtonfire for re-appraisal. 
+2) This assessment report is not valid unless it incorporates the declaration given in Section 14 duly signed by the applicant. 
+ 
+Position: Assessor Reviewer Signature:  	Name: N Whitelock* C Newton* Title: Technical Manager – Doors & Smoke Control Product Assessor * For and on behalf of Warringtonfire  
+ 
+ 	 
+Appendix A: Revisions 
+ 
+Rev. WF Ref. Date Description                          
+1 One of the above specified outer facing materials must be applied to the leaf face as tested. The 0.8mm thick EV Veneer facing material has been positively assessed as a substitute to the tested 0.9mm facing as under test conditions they are likely to degrade comparably, without influencing the fire resistance performance of the doorset design.  
+2 One of the above specified outer facing materials must be applied to the leaf face as tested. The 0.8mm thick EV Veneer facing material has been positively assessed as a substitute to the tested 0.9mm facing as under test conditions they are likely to degrade comparably, without influencing the fire resistance performance of the doorset design. 
+ 	 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 2 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 2 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+
+
+
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 10 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 10 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 10 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 10 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 47 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
+Field of Application 	Report No: for: Wood International Agency Ltd 	WF538235 
+The Therman™ 44 Range of Doorsets in Timber Based Door 	Page 10 of 68 
+Frames 
+30 minutes fire resistance  
+ 
+
+ 
+WFT-QU-FT-019 - (Issue 19 – 10.10.2023) 
+ BACK TO CONTENTS PAGE   
+ 
+
