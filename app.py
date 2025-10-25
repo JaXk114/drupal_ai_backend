@@ -30,18 +30,6 @@ def ask():
 def home():
     return "Flask proxy for Hugging Face inference"
 
-@app.route("/ask", methods=["POST"])
-def ask():
-    try:
-        q = request.json.get("question", "")
-        if not q:
-            return jsonify({"error": "No question provided"}), 400
-        # ... your embedding / search / inference code here ...
-        return jsonify({"answer": "Response goes here"})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port)
