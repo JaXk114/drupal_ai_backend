@@ -48,7 +48,7 @@ def debug_routes():
     routes = [str(r) for r in app.url_map.iter_rules()]
     return jsonify({"routes": routes})
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))
-    print(f"🎯 Starting Flask on port {port} ...")
-    app.run(host="0.0.0.0", port=port)
+@app.route("/debug")
+def debug_routes():
+    routes = [str(r) for r in app.url_map.iter_rules()]
+    return jsonify({"routes": routes})
