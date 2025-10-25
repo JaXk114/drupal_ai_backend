@@ -14,7 +14,8 @@ data_folder = "."
 documents = []
 for file in os.listdir(data_folder):
     if file.endswith(".txt"):
-        with open(os.path.join(data_folder, file), "r", encoding="utf-8") as f:
+        with open(os.path.join(data_folder, file), "r", encoding="utf-8", errors="ignore") as f:
+
             documents.append({"name": file, "text": f.read()})
 
 # Precompute embeddings
