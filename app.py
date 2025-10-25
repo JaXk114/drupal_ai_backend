@@ -10,7 +10,7 @@ app = Flask(__name__)
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 # Load text documents
-data_folder = "./docs"
+data_folder = "."
 documents = []
 for file in os.listdir(data_folder):
     if file.endswith(".txt"):
