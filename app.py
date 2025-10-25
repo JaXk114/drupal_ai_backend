@@ -42,6 +42,11 @@ def ask():
 def home():
     print("🏠 Root route hit")
     return "Flask proxy for Hugging Face inference"
+    
+@app.route("/debug")
+def debug_routes():
+    routes = [str(r) for r in app.url_map.iter_rules()]
+    return jsonify({"routes": routes})
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
