@@ -7,7 +7,8 @@ import json
 app = Flask(__name__)
 
 # Load your embedding model (small + CPU friendly)
-model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
+
 
 # Load text documents
 data_folder = "."
