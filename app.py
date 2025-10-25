@@ -3,39 +3,47 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
+# Debug print to confirm app starts
+print("🚀 Flask app initializing...")
+
 HF_TOKEN = os.environ.get("HF_TOKEN")
 MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-model_loaded = False  # track whether model initialized
 
 @app.route("/ask", methods=["POST"])
 def ask():
-    global model_loaded
+    print("⚙️ /ask endpoint called")
     q = request.json.get("question", "")
     if not q:
         return jsonify({"error": "No question provided"}), 400
 
-    # Lazy init: only connect to Hugging Face once the first query comes in
-    if not model_loaded:
-        print("Initializing model lazily...")
-        model_loaded = True  # pretend loaded, real call happens below
+    if not HF_TOKEN:
+        return jsonify({"error": "Missing HF_TOKEN in environment"}), 500
 
-    r = requests.post(
-        f"https://api-inference.huggingface.co/pipeline/feature-extraction/{MODEL}",
-        headers={"Authorization": f"Bearer {HF_TOKEN}"},
-        json={"inputs": q},
-        timeout=30
-    )
+    try:
+        r = requests.post(
+            f"https://api-inference.huggingface.co/pipeline/feature-extraction/{MODEL}",
+            headers={"Authorization": f"Bearer {HF_TOKEN}"},
+            json={"inputs": q},
+            timeout=30
+        )
 
-    if r.status_code != 200:
-        return jsonify({"error": r.text}), r.status_code
+        if r.status_code != 200:
+            print(f"❌ HF error: {r.status_code} - {r.text}")
+            return jsonify({"error": r.text}), r.status_code
 
-    data = r.json()
-    return jsonify({"embedding_preview": data[:3]})
+        data = r.json()
+        print("✅ HF response received successfully")
+        return jsonify({"embedding_preview": data[:3]})
+    except Exception as e:
+        print(f"🔥 Exception in /ask: {e}")
+        return jsonify({"error": str(e)}), 500
 
 @app.route("/")
 def home():
-    return "Flask proxy for Hugging Face inference (lazy load)"
+    print("🏠 Root route hit")
+    return "Flask proxy for Hugging Face inference"
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
+    print(f"🎯 Starting Flask on port {port} ...")
     app.run(host="0.0.0.0", port=port)
