@@ -20,11 +20,15 @@ def ask():
         return jsonify({"error": "Missing HF_TOKEN in environment"}), 500
 
     try:
+        print(f"🔍 Sending to Hugging Face: model={MODEL}, token={'SET' if HF_TOKEN else 'MISSING'}")
+
         r = requests.post(
-            f"https://api-inference.huggingface.co/pipeline/feature-extraction/{MODEL}",
-            headers={"Authorization": f"Bearer {HF_TOKEN}"},
-            json={"inputs": q},
-            timeout=30
+    f"https://api-inference.huggingface.co/models/{MODEL}",
+    headers={"Authorization": f"Bearer {HF_TOKEN}"},
+    json={"inputs": q},
+    timeout=30
+)
+
         )
 
         if r.status_code != 200:
